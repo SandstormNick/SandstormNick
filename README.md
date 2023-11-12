@@ -10,7 +10,7 @@
 ![Sass](https://img.shields.io/badge/-SCSS-14161A?logo=sass)
 ![Flutter](https://img.shields.io/badge/-Flutter-14161A?logo=flutter)
 
-[![StackOverflow](https://stackoverflow.com/users/flair/4854046.png?theme=dark)](https://stackoverflow.com/users/10384306/sandstormnick)
+[![StackOverflow](https://stackoverflow.com/users/flair/10384306.png?theme=dark)](https://stackoverflow.com/users/10384306/sandstormnick)
 
 <img src="https://komarev.com/ghpvc/?username=SandstormNick&style=flat-square&color=blue" alt=""/>
 

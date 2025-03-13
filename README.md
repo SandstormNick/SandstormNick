@@ -12,8 +12,6 @@
 
 [![StackOverflow](https://stackoverflow.com/users/flair/10384306.png?theme=dark)](https://stackoverflow.com/users/10384306/sandstormnick)
 
-<img src="https://komarev.com/ghpvc/?username=SandstormNick&style=flat-square&color=blue" alt=""/>
-
 <!--
 **SandstormNick/SandstormNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
